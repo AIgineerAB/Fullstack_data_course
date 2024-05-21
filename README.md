@@ -55,6 +55,9 @@ This course is divided into two parts, where part 1 consists mostly of theory, w
 
 ## things to cover
 
+- uv venv
+
+
 - SOLID
 - unit tests
 - mob programming
@@ -65,6 +68,7 @@ This course is divided into two parts, where part 1 consists mostly of theory, w
 - FastAPI, requests
 - CI/CD (part 2)
 - deployment (part 2)
+  
 
 ## notes
 
