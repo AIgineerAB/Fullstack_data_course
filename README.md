@@ -1,23 +1,57 @@
 # Plan for fullstack course
 
-Part 1
+This course is divided into two parts, where part 1 consists mostly of theory, while part 2 is more focused on a project work.
 
-| Week    | Content                  |
-| ------- | ------------------------ |
-| week 34 | **repetition of python** |
-|         | - functional             |
-|         | - OOP                    |
-| week 35 | **plotly dash**          |
-|         | - basic dashboard        |
-|         | - callbacks              |
-|         | - HTML fundamentals      |
-|         | - dcc components         |
-| week 36 |                          |
-| week 37 |                          |
-| week 38 |                          |
-| week 39 |                          |
-| week 40 |                          |
-| week 41 |                          |
+## Part 1
+
+| Week    | Content                                     |
+| ------- | ------------------------------------------- |
+| week 34 | **repetition of python**                    |
+|         | - functional                                |
+|         | - OOP                                       |
+|         | - mob programming                           |
+| week 35 | **frontend**                                |
+|         | - basic dashboard in plotly dash            |
+|         | - callbacks                                 |
+|         | - HTML fundamentals - structure, tags       |
+|         | - dcc components                            |
+| week 36 | **styling frontend**                        |
+|         | - semantic HTML continue                    |
+|         | - CSS fundamentals                          |
+|         | - selectors, properties, values             |
+|         | - box model, composition, layout, units     |
+| week 37 | **styling continue**                        |
+|         | - flexbox and grid                          |
+|         | - responsive design                         |
+| week 38 | **SQL, dashboard lab**                      |
+|         | - DuckDB intro and SQL repetition           |
+|         | - FastAPI simple connection DB and frontend |
+|         | - CORS                                      |
+| week 39 | **FastAPI continue, dashboard lab**         |
+|         | - REST API                                  |
+|         | - pydantic model                            |
+| week 40 | **dashboard lab**                           |
+| week 41 | **dashboard lab**                           |
+|         | - presentation and submit code              |
+
+## Part 2
+
+| Week   | Content                                 |
+| ------ | --------------------------------------- |
+| week 2 | **agile, clean code**                   |
+|        | - SOLID principles                      |
+|        | - DRY principle                         |
+|        | - agile manifesto                       |
+| week 3 | **project**                             |
+|        | - unit tests                            |
+|        | - git branches, pull requests           |
+| week 4 | **continous integration (CI), project** |
+|        | - github actions                        |
+|        | - toolings: black, flake8, TBD          |
+| week 5 | **continous deployment (CD), project**  |
+| week 6 | **project**                             |
+|        | - presentation and submit project       |
+| week 7 | **buffer time**                         |
 
 ## things to cover
 
@@ -27,14 +61,15 @@ Part 1
 - plotly dash frontend
 - callbacks
 - HTML fundamentals
-- DuckDB SQL 
-- FastAPI, requests 
-- CI/CD
+- DuckDB SQL
+- FastAPI, requests
+- CI/CD (part 2)
+- deployment (part 2)
 
+## notes
 
-## notes 
-- slim resources section 
-- own video materials 
-- menti to find out difficult parts 
-- flipped classroom 
-- 
+- slim resources section
+- own video materials
+- menti to find out difficult parts
+- flipped classroom
+-
