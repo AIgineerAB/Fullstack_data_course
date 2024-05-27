@@ -18,12 +18,13 @@ This course is divided into two parts, where part 1 consists mostly of theory, w
 | week 36 | **styling frontend**                        |
 |         | - semantic HTML continue                    |
 |         | - CSS fundamentals                          |
+|         | - cascade, specificity, inheritance        |
 |         | - selectors, properties, values             |
-|         | - box model, composition, layout, units     |
+|         | box model, composition, layout, units       |
 | week 37 | **styling continue**                        |
 |         | - flexbox and grid                          |
 |         | - responsive design                         |
-| week 38 | **SQL, dashboard lab**                      |
+| week 38 | **SQL, FastAPI, dashboard lab**             |
 |         | - DuckDB intro and SQL repetition           |
 |         | - FastAPI simple connection DB and frontend |
 |         | - CORS                                      |
@@ -52,28 +53,3 @@ This course is divided into two parts, where part 1 consists mostly of theory, w
 | week 6 | **project**                             |
 |        | - presentation and submit project       |
 | week 7 | **buffer time**                         |
-
-## things to cover
-
-- uv venv
-
-
-- SOLID
-- unit tests
-- mob programming
-- plotly dash frontend
-- callbacks
-- HTML fundamentals
-- DuckDB SQL
-- FastAPI, requests
-- CI/CD (part 2)
-- deployment (part 2)
-  
-
-## notes
-
-- slim resources section
-- own video materials
-- menti to find out difficult parts
-- flipped classroom
--
