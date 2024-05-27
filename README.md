@@ -18,7 +18,7 @@ This course is divided into two parts, where part 1 consists mostly of theory, w
 | week 36 | **styling frontend**                        |
 |         | - semantic HTML continue                    |
 |         | - CSS fundamentals                          |
-|         | - cascade, specificity, inheritance        |
+|         | - cascade, specificity, inheritance         |
 |         | - selectors, properties, values             |
 |         | box model, composition, layout, units       |
 | week 37 | **styling continue**                        |
@@ -50,6 +50,7 @@ This course is divided into two parts, where part 1 consists mostly of theory, w
 |        | - github actions                        |
 |        | - toolings: black, flake8, TBD          |
 | week 5 | **continous deployment (CD), project**  |
+|        | - github actions for CD                 |
 | week 6 | **project**                             |
 |        | - presentation and submit project       |
 | week 7 | **buffer time**                         |
