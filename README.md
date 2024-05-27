@@ -20,7 +20,7 @@ This course is divided into two parts, where part 1 consists mostly of theory, w
 |         | - CSS fundamentals                          |
 |         | - cascade, specificity, inheritance         |
 |         | - selectors, properties, values             |
-|         | box model, composition, layout, units       |
+|         | - box model, composition, layout, units     |
 | week 37 | **styling continue**                        |
 |         | - flexbox and grid                          |
 |         | - responsive design                         |
