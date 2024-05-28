@@ -2,6 +2,8 @@
 
 This course is divided into two parts, where part 1 consists mostly of theory, while part 2 is more focused on a project work.
 
+Throughout the course, there will be video lectures covering all parts 
+
 ## Part 1
 
 | Week    | Content                                     |
