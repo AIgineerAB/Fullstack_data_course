@@ -67,7 +67,9 @@ Printing out details are just that fun. It's time for battle.
 - implement a (pseudo)private method take_damage that subtracts the damage on the healthpoints
 - implement an attack method in the Pokemon class that takes in another Pokemon as an argument. It inflicts damage on other pokemon based on its own level times 2. Print out damage taken and life points left on the pokemon. When damage exceeds the life points, the pokemon is fainted. 
 
-&nbsp; g) Instantiate two pokemons and let them battle until one has fainted and announce a winner. 
+&nbsp; g) Instantiate two pokemons and let them battle until one has fainted and announce a winner. They take turns in fighting one attack at a time.
+
+&nbsp; h) Feel free to implement more features.
 
 
 ## 2. Analyze a log file 
@@ -84,6 +86,7 @@ There seem to have been some errors during runs. You are tasked to read this log
 
 &nbsp; d) Find application information.
 
+&nbsp; e) Are there some other valuable information that can be extracted the log?
 
 
 ## 3. Theory questions
