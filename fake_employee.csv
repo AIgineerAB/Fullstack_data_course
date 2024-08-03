@@ -1,0 +1,11 @@
+﻿EmployeeID,FirstName,LastName,Age,Department,Position,Salary,Email,PhoneNumber
+E001,John,Smith,29,Engineering,Software Engineer,80000,john.smith@example.com,555-1234
+E002,Jane,Doe,34,Marketing,Marketing Manager,85000,jane.doe@example.com,555-5678
+E003,Emily,Johnson,41,Sales,Sales Executive,90000,emily.johnson@example.com,555-8765
+E004,Michael,Brown,37,HR,HR Specialist,75000,michael.brown@example.com,555-3456
+E005,Jessica,Davis,28,Finance,Accountant,70000,jessica.davis@example.com,555-2345
+E006,David,Wilson,45,Engineering,Project Manager,95000,david.wilson@example.com,555-6789
+E007,Laura,Garcia,30,Customer Service,Customer Service Representative,65000,laura.garcia@example.com,555-4567
+E008,Robert,Miller,39,IT,System Administrator,85000,robert.miller@example.com,555-9876
+E009,Susan,Martinez,33,Legal,Legal Advisor,80000,susan.martinez@example.com,555-5432
+E010,James,Rodriguez,50,Operations,Operations Manager,100000,james.rodriguez@example.com,555-6543

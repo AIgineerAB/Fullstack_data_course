@@ -1,0 +1,101 @@
+EmployeeID,FirstName,LastName,Age,Department,Position,Salary_SEK,Email,PhoneNumber
+E001,Ann,Larsson,41,Product Management,AI Specialist,60777,ann.larsson@supacoolsoft.se,+46 (0)25 37 22 30
+E002,Emma,Kim,52,Engineering,Database Administrator,46020,emma.kim@supacoolsoft.se,+46 (0)855 449 66
+E003,Barbro,Andersson,59,DevOps,Data Scientist,48503,barbro.andersson@supacoolsoft.se,+46 (0)47 61 73 44
+E004,Magnus,Söderström,52,Product Management,Junior Data Scientist,47296,magnus.söderström@supacoolsoft.se,+46 (0)258 579 26
+E005,Therese,Ljungberg,46,Product Management,Junior Data Scientist,42435,therese.ljungberg@supacoolsoft.se,+46 (0)575 495 24
+E006,Liam,Wilson,41,IT,Senior Data Analyst,65993,liam.wilson@supacoolsoft.se,026-27 51 40
+E007,Olivia,Brown,46,DevOps,AI Specialist,66996,olivia.brown@supacoolsoft.se,0717-03 48 64
+E008,Astrid,Persson,50,Data Science,Data Scientist,36364,astrid.persson@supacoolsoft.se,08-025 34 57
+E009,Britt,Johansson,47,Engineering,BI Developer,53078,britt.johansson@supacoolsoft.se,+46 (0)107 752 69
+E010,Ove,Larsson,54,Data Science,Junior Data Engineer,44542,ove.larsson@supacoolsoft.se,001-648 30 01
+E011,Fatima,Khan,41,DevOps,Junior Data Engineer,33563,fatima.khan@supacoolsoft.se,0103-338 33
+E012,Cecilia,Magnusson,58,Data Science,Machine Learning Engineer,56154,cecilia.magnusson@supacoolsoft.se,0576-83 25 92
+E013,Mia,Patel,49,Product Management,Senior Data Analyst,54730,mia.patel@supacoolsoft.se,037-33 21 22
+E014,Fredrik,Lindholm,35,Product Management,Junior Data Scientist,35296,fredrik.lindholm@supacoolsoft.se,+46 (0)8 473 351 77
+E015,Verner,Eriksson,57,DevOps,ETL Developer,46264,verner.eriksson@supacoolsoft.se,0810-80 56 25
+E016,Ruth,Eriksson,47,DevOps,Machine Learning Engineer,68611,ruth.eriksson@supacoolsoft.se,+46 (0)25 21 81 60
+E017,Patrik,Isaksson,59,Data Science,Senior Data Scientist,65526,patrik.isaksson@supacoolsoft.se,0161-436 91
+E018,Gustaf,Jönsson,50,Product Management,Junior Data Engineer,41905,gustaf.jönsson@supacoolsoft.se,08-938 153 46
+E019,Olivia,Brown,38,Engineering,Data Scientist,56225,olivia.brown@supacoolsoft.se,08-72 88 02
+E020,Noah,Lee,54,Engineering,Database Administrator,48482,noah.lee@supacoolsoft.se,0590-74 92 08
+E021,Valdemar,Jönsson,44,Product Management,Data Scientist,51919,valdemar.jönsson@supacoolsoft.se,08-703 59 75
+E022,Helena,Lundkvist,51,DevOps,Junior Data Scientist,49129,helena.lundkvist@supacoolsoft.se,+46 (0)8 571 733 95
+E023,Maria,Garcia,31,IT,Big Data Engineer,60579,maria.garcia@supacoolsoft.se,+46 (0)8 058 790 94
+E024,Kajsa,Arvidsson,48,DevOps,ETL Developer,44109,kajsa.arvidsson@supacoolsoft.se,091-511 74 71
+E025,Erik,Johansson,34,IT,Big Data Engineer,52931,erik.johansson@supacoolsoft.se,08-22 92 07
+E026,Johan,Johansson,37,DevOps,BI Developer,44562,johan.johansson@supacoolsoft.se,043-482 50 16
+E027,Anna,Östlund,36,DevOps,Senior Data Analyst,58956,anna.östlund@supacoolsoft.se,08-06 33 11
+E028,Christina,Svensson,52,IT,Junior Data Scientist,47746,christina.svensson@supacoolsoft.se,+46 (0)479 099 78
+E029,Christina,Lund,28,Engineering,Senior Data Analyst,68032,christina.lund@supacoolsoft.se,08-31 39 94
+E030,Sophia,Martinez,31,Engineering,Junior Data Analyst,34687,sophia.martinez@supacoolsoft.se,+46 (0)763 808 28
+E031,Lennart,Dahlberg,55,DevOps,Senior Data Engineer,65831,lennart.dahlberg@supacoolsoft.se,08-249 500 00
+E032,Lena,Ström,34,Data Science,Data Scientist,49971,lena.ström@supacoolsoft.se,+46 (0)8 059 469 59
+E033,Maria,Garcia,29,IT,Junior Data Scientist,41412,maria.garcia@supacoolsoft.se,0613-858 88
+E034,Maria,Garcia,54,Product Management,AI Specialist,59988,maria.garcia@supacoolsoft.se,08-36 85 93
+E035,Margareta,Lilja,34,Data Science,Senior Data Engineer,67163,margareta.lilja@supacoolsoft.se,051-48 58 04
+E036,Niklas,Karlsson,40,IT,Database Administrator,54033,niklas.karlsson@supacoolsoft.se,0795-862 69
+E037,Olivia,Brown,54,IT,BI Developer,52655,olivia.brown@supacoolsoft.se,081-63 55 27
+E038,Olivia,Brown,55,Product Management,Data Architect,52378,olivia.brown@supacoolsoft.se,08-117 735 63
+E039,Maria,Nilsson,56,DevOps,Junior Data Scientist,43784,maria.nilsson@supacoolsoft.se,08-520 29 36
+E040,Emma,Kim,53,IT,AI Specialist,65553,emma.kim@supacoolsoft.se,0946-74 42 27
+E041,Maria,Garcia,25,DevOps,Machine Learning Engineer,45451,maria.garcia@supacoolsoft.se,0571-862 98
+E042,Jane,Smith,28,Product Management,AI Specialist,52919,jane.smith@supacoolsoft.se,08-858 02 88
+E043,Maria,Larsson,36,Data Science,Junior Data Analyst,39892,maria.larsson@supacoolsoft.se,0074-48 00 68
+E044,John,Doe,39,DevOps,Junior Data Analyst,37471,john.doe@supacoolsoft.se,08-333 15 33
+E045,Ahmed,Hassan,43,Engineering,Senior Data Analyst,57926,ahmed.hassan@supacoolsoft.se,+46 (0)354 388 47
+E046,Liam,Wilson,57,IT,Senior Data Analyst,52336,liam.wilson@supacoolsoft.se,+46 (0)74 98 17 56
+E047,Patrik,Johansson,49,IT,Machine Learning Engineer,52337,patrik.johansson@supacoolsoft.se,+46 (0)81 44 86 32
+E048,Vilhelm,Erlandsson,57,Engineering,ETL Developer,35084,vilhelm.erlandsson@supacoolsoft.se,08-14 69 30
+E049,Noah,Lee,51,Engineering,Junior Data Analyst,35068,noah.lee@supacoolsoft.se,+46 (0)8 117 411 30
+E050,Maria,Garcia,56,DevOps,Big Data Engineer,55337,maria.garcia@supacoolsoft.se,+46 (0)152 731 00
+E051,Mia,Patel,41,IT,Data Scientist,57326,mia.patel@supacoolsoft.se,+46 (0)39 27 25 65
+E052,Emma,Kim,39,Engineering,Data Architect,55164,emma.kim@supacoolsoft.se,08-43 00 80
+E053,Sophia,Martinez,59,Product Management,Senior Data Engineer,61093,sophia.martinez@supacoolsoft.se,08-081 47 09
+E054,Ahmed,Hassan,35,Engineering,Database Administrator,36586,ahmed.hassan@supacoolsoft.se,+46 (0)8 975 444 52
+E055,Sophia,Martinez,39,Product Management,Senior Data Engineer,65649,sophia.martinez@supacoolsoft.se,08-989 394 08
+E056,Robert,Jönsson,49,DevOps,Machine Learning Engineer,41548,robert.jönsson@supacoolsoft.se,+46 (0)994 940 25
+E057,Margareta,Bengtsson,37,Engineering,Data Scientist,43531,margareta.bengtsson@supacoolsoft.se,069-87 88 70
+E058,Noah,Lee,51,Engineering,Junior Data Analyst,30452,noah.lee@supacoolsoft.se,091-90 11 20
+E059,David,Karlsson,40,Data Science,ETL Developer,42951,david.karlsson@supacoolsoft.se,0076-410 48
+E060,Ahmed,Hassan,29,IT,Senior Data Scientist,61086,ahmed.hassan@supacoolsoft.se,08-145 202 83
+E061,Margareta,Berglund,28,DevOps,AI Specialist,69356,margareta.berglund@supacoolsoft.se,088-747 36 50
+E062,Sten,Olsson,42,Data Science,Junior Data Analyst,32045,sten.olsson@supacoolsoft.se,0607-67 04 63
+E063,Olof,Sandström,52,DevOps,Senior Data Scientist,60518,olof.sandström@supacoolsoft.se,052-21 45 05
+E064,Liam,Wilson,51,Engineering,AI Specialist,57635,liam.wilson@supacoolsoft.se,0748-567 78
+E065,Kristina,Isaksson,32,Product Management,Senior Data Scientist,68297,kristina.isaksson@supacoolsoft.se,08-693 72 26
+E066,Viola,Andersson,31,Engineering,ETL Developer,48533,viola.andersson@supacoolsoft.se,+46 (0)472 155 43
+E067,Gun,Jakobsson,60,Data Science,Senior Data Engineer,66441,gun.jakobsson@supacoolsoft.se,+46 (0)573 836 26
+E068,Marie-Louise,Mattsson,26,Product Management,Senior Data Analyst,56303,marie-louise.mattsson@supacoolsoft.se,0750-67 70 90
+E069,Gunnar,Eriksson,55,Product Management,ETL Developer,53544,gunnar.eriksson@supacoolsoft.se,0589-311 37
+E070,Emma,Kim,48,DevOps,AI Specialist,66359,emma.kim@supacoolsoft.se,+46 (0)8 354 130 19
+E071,Henrik,Gustafsson,28,DevOps,Junior Data Analyst,33983,henrik.gustafsson@supacoolsoft.se,0719-21 04 29
+E072,Per,Olofsson,29,Product Management,Senior Data Scientist,68174,per.olofsson@supacoolsoft.se,034-947 26 55
+E073,Liam,Wilson,37,Product Management,ETL Developer,39020,liam.wilson@supacoolsoft.se,029-397 34 46
+E074,Carina,Karlsson,41,Product Management,Data Architect,68431,carina.karlsson@supacoolsoft.se,090-942 26 93
+E075,Wei,Zhang,32,DevOps,Machine Learning Engineer,68086,wei.zhang@supacoolsoft.se,+46 (0)586 920 24
+E076,Mia,Patel,30,Data Science,Junior Data Engineer,37401,mia.patel@supacoolsoft.se,+46 (0)44 36 26 70
+E077,Elias,Engström,48,Engineering,Machine Learning Engineer,51275,elias.engström@supacoolsoft.se,090-61 85 40
+E078,Åke,Karlsson,52,Data Science,Junior Data Analyst,38178,åke.karlsson@supacoolsoft.se,+46 (0)8 668 664 03
+E079,Bo,Nilsson,42,Product Management,Data Scientist,68339,bo.nilsson@supacoolsoft.se,08-80 09 36
+E080,Jane,Smith,51,Data Science,AI Specialist,64744,jane.smith@supacoolsoft.se,019-95 48 10
+E081,Sofia,Nielsen,31,IT,ETL Developer,53455,sofia.nielsen@supacoolsoft.se,08-929 953 68
+E082,Nils,Lindholm,46,Data Science,Senior Data Analyst,65517,nils.lindholm@supacoolsoft.se,032-273 05 24
+E083,Anders,Larsson,58,Product Management,Senior Data Analyst,54000,anders.larsson@supacoolsoft.se,08-210 74 89
+E084,Noah,Lee,57,Engineering,Data Architect,61083,noah.lee@supacoolsoft.se,+46 (0)8 433 821 37
+E085,Margaretha,Lundin,40,DevOps,Machine Learning Engineer,41833,margaretha.lundin@supacoolsoft.se,08-343 45 95
+E086,Olivia,Brown,53,IT,Senior Data Engineer,69742,olivia.brown@supacoolsoft.se,+46 (0)938 025 59
+E087,Anna,Nyberg,36,Data Science,Senior Data Scientist,66179,anna.nyberg@supacoolsoft.se,+46 (0)94 61 24 30
+E088,John,Doe,38,Product Management,Data Architect,60572,john.doe@supacoolsoft.se,08-830 43 13
+E089,Wei,Zhang,30,DevOps,Senior Data Engineer,60801,wei.zhang@supacoolsoft.se,08-568 854 88
+E090,Alexander,Johansson,32,Product Management,Junior Data Scientist,43407,alexander.johansson@supacoolsoft.se,0885-352 96
+E091,Jane,Smith,48,Product Management,Data Scientist,53323,jane.smith@supacoolsoft.se,+46 (0)8 749 714 02
+E092,Mia,Patel,42,Engineering,ETL Developer,44192,mia.patel@supacoolsoft.se,+46 (0)501 810 69
+E093,Mia,Patel,42,IT,Junior Data Analyst,33401,mia.patel@supacoolsoft.se,083-946 68 56
+E094,Fatima,Khan,35,IT,Junior Data Analyst,36776,fatima.khan@supacoolsoft.se,007-70 46 39
+E095,Gunilla,Karlsson,58,Product Management,Senior Data Scientist,61383,gunilla.karlsson@supacoolsoft.se,+46 (0)983 237 67
+E096,Erik,Höglund,55,Data Science,Junior Data Engineer,42590,erik.höglund@supacoolsoft.se,+46 (0)8 454 503 87
+E097,Fatima,Khan,26,Engineering,BI Developer,42809,fatima.khan@supacoolsoft.se,08-677 430 60
+E098,Gunnel,Olofsson,27,Engineering,Senior Data Engineer,62630,gunnel.olofsson@supacoolsoft.se,+46 (0)35 20 46 36
+E099,Wei,Zhang,43,Product Management,Senior Data Analyst,52075,wei.zhang@supacoolsoft.se,+46 (0)490 722 64
+E100,Ulrika,Sundberg,39,Product Management,Database Administrator,53413,ulrika.sundberg@supacoolsoft.se,08-276 632 16
