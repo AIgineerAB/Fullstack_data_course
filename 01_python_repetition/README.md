@@ -55,4 +55,46 @@ You will see a paranthesis around your directory name in the terminal when your 
 
 ## Other videos :video_camera:
 
+Learn [Git and GitHub][git_tutorial] for version control and file storage
+
+[git_tutorial]: https://www.youtube.com/watch?v=USjZcfj8yxE
+
+  When entering the commands `python` or `pip` in command prompt or terminal and there is an error :x:, you need to set the path manually
+  - set path in [Windows][windows_path]
+  - set path in [Mac/Linux][mac_path]
+  
+[windows_path]: https://www.youtube.com/watch?v=dj5oOPaeIqI 
+[mac_path]: https://www.youtube.com/watch?v=PUIE7CPANfo
+
+Concepts 
+- learn [variables][variables] to store data
+- learn [input][input] to let user input to the program
+- learn [while statement][while_video] to repeat code with given condition
+- learn [for statement][for_video] to efficiently repeat code
+- learn [lists][lists_video] for organizing data
+- learn [list comprehension][list_comp_vid] for efficient and clean code
+- learn [matplotlib][matplot_video] to plot graphs
+- learn [functions][func_vid] to organize and reuse code
+- learn [strings][string_vid] to work with text
+- learn [f-string][f_string_vid] to nicely format strings
+- learn [exceptions][except_vid] for error handling
+- learn [files][file_vid] for reading and writing to files
+- learn [dictionary][dict_vid] for storing and accessing data using key-value pairs
+- learn [numpy](https://www.youtube.com/watch?v=DcfYgePyedM) for working with arrays, computations and mathematics
+
+[file_vid]: https://www.youtube.com/watch?v=4mX0uPQFLDU
+[dict_vid]: https://www.youtube.com/watch?v=XCcpzWs-CI4
+[except_vid]: https://www.youtube.com/watch?v=nlCKrKGHSSk&t=1s
+[func_vid]: https://www.youtube.com/watch?v=NE97ylAnrz4
+[string_vid]: https://www.youtube.com/watch?v=k9TUPpGqYTo
+[f_string_vid]: https://www.youtube.com/watch?v=nghuHvKLhJA
+[matplot_video]: https://www.youtube.com/watch?v=nzKy9GY12yo
+[for_video]: https://www.youtube.com/watch?v=OnDr4J2UXSA
+[lists_video]: https://www.youtube.com/watch?v=ohCDWZgNIU0&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=14
+[list_comp_vid]: https://www.youtube.com/watch?v=AhSvKGTh28Q&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=22
+[venv_video]: https://www.youtube.com/watch?v=Kg1Yvry_Ydk&t=1s
+[while_video]: https://www.youtube.com/watch?v=6TEGxJXLAWQ
+[variables]: https://www.youtube.com/watch?v=Z1Yd7upQsXY&t=470s
+[input]: https://www.youtube.com/watch?v=4OX49nLNPEE
+
 ## Read more :eyeglasses:
