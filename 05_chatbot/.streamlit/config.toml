@@ -1,0 +1,14 @@
+[server]
+headless = true
+port = 8501
+enableCORS = false  # Set to false to enable CORS
+enableXsrfProtection = false  # Set to false to disable XSRF protection
+
+
+
+[theme]
+primaryColor = "#F1FFFF"
+backgroundColor = "#283237"
+secondaryBackgroundColor = "#596D79"
+textColor = "#F1FFFF"
+font = "monospace"

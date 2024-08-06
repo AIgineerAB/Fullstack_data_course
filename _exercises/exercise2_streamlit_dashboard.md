@@ -37,3 +37,6 @@ Bonus:
 - more interactive filtering to drill down to specific locations, time period, subjects, ... 
 - this filtering should be displayed on a side panel
 
+## 3. Chatbot
+
+Create a simple chatbot and customize it to your choice. 

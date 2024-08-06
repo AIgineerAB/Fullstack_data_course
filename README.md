@@ -22,8 +22,8 @@ Throughout the course, there will be video lectures covering all parts
 |         | - displaying data                 |
 |         | - graphs                          |
 | week 37 | **layouts and containers**        |
-|         | - layouts containers              |
-|         | - responsive design               |
+|         | - basic styling                   |
+|         |                                   |
 | week 38 | **SQL, dashboard lab**            |
 |         | - DuckDB intro                    |
 |         | - SQL repetition                  |
