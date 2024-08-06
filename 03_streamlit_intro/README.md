@@ -5,6 +5,8 @@
 > [!IMPORTANT]
 > [LINK TO VIDEO &nbsp; :video_camera:](https://)
 
+In this first lecture about streamlit, we'll go through the fundamentals and not get stuck on structuring the code. In later lecture we'll go through a structure that could be more extensible and more composable to build larger dashboard applications. 
+
 ## Setup 
 
 We'll install streamlit 
@@ -12,6 +14,7 @@ We'll install streamlit
 ```bash 
 uv pip install streamlit openpyxl
 ```
+
 
 
 ## Other videos :video_camera:
