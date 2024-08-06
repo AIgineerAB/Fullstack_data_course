@@ -22,3 +22,4 @@ st.write
 ## Read more :eyeglasses:
 
 - [Styling streamlit](https://blog.streamlit.io/introducing-theming/)
+- [Modular scale - Every layout](https://every-layout.dev/rudiments/modular-scale/)
