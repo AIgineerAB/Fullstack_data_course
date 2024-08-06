@@ -47,18 +47,17 @@ def layout():
     fig.update_layout(xaxis=dict(showgrid=False), yaxis=dict(showgrid=False))
     st.plotly_chart(fig)
 
-    st.markdown(
-        """
-    <style>
-        h1,h2,h3 {
-            color: #EDBD7C;
-        }   
+    read_css()
 
-          
-    </style>
-    """,
-        unsafe_allow_html=True,
-    )
+
+def read_css():
+    css_path = Path(__file__).parent / "style.css"
+
+    with open(css_path) as css:
+        st.markdown(
+            f"<style>{css.read()}</style>",
+            unsafe_allow_html=True,
+        )
 
 
 if __name__ == "__main__":
