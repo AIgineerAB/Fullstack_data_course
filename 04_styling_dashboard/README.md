@@ -5,14 +5,13 @@
 > [!IMPORTANT]
 > [LINK TO VIDEO &nbsp; :video_camera:](https://)
 
-In this first lecture about streamlit, we'll go through the fundamentals and not get stuck on structuring the code. In later lecture we'll go through a structure that could be more extensible and more composable to build larger dashboard applications. 
+In this lecture we'll work with styling the dashboard. Instead of markdown we'll use different types of text sizeing in streamlit.
 
-## Setup 
-
-We'll install streamlit 
-
-```bash 
-uv pip install streamlit openpyxl plotly
+```py
+st.title
+st.header
+st.subheader
+st.write
 ```
 
 
@@ -22,3 +21,4 @@ uv pip install streamlit openpyxl plotly
 
 ## Read more :eyeglasses:
 
+- [Styling streamlit](https://blog.streamlit.io/introducing-theming/)
