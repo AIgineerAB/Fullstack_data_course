@@ -39,4 +39,11 @@ Bonus:
 
 ## 3. Chatbot
 
-Create a simple chatbot and customize it to your choice. 
+Create a simple chatbot and customize it to your choice.
+
+Here are some inspirations: 
+
+- ChatGBG - always talk in göteborg dialect and likes making fun of people from Stocholm
+- AnalystGPT - send in some data and it will give some KPIs, or even make graphs based on your data
+- JokeTeller - turns everything into a good joke 
+- Answer questions about your school or your programs 
