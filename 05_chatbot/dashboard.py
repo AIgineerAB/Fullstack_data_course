@@ -3,47 +3,43 @@ import pandas as pd
 from pathlib import Path
 from bot import Bot
 
-bot = Bot()
-
-def chat():
-        # Initialize chat history
+def initialize_session_state():
+    """Initialize session state variables."""
     if "messages" not in st.session_state:
         st.session_state.messages = []
+    if "bot" not in st.session_state:
+        st.session_state.bot = Bot()
 
-    # Display chat messages from history on app rerun
+def display_chat_messages():
+    """Display chat messages from history"""
     for message in st.session_state.messages:
         with st.chat_message(message["role"]):
             st.markdown(message["content"])
 
-    # React to user input
+def handle_user_input():
+    """Handle user input and generate bot response."""
     if prompt := st.chat_input("What is up?"):
-        # Display user message in chat message container
+
         with st.chat_message("user"):
             st.markdown(prompt)
-        # Add user message to chat history
+
         st.session_state.messages.append({"role": "user", "content": prompt})
 
+        bot_response = st.session_state.bot.chat(prompt)
+        response = f"Ro Båt: {bot_response}"
 
-        response = f"Ro Båt: {bot.chat(prompt)}"
-        # Display assistant response in chat message container
         with st.chat_message("assistant"):
             st.markdown(response)
-        # Add assistant response to chat history
+
         st.session_state.messages.append({"role": "assistant", "content": response})
 
-
 def layout():
+    """Define the layout of the Streamlit app."""
     st.title("Chatting with RO BÅT")
-    chat()
-
-    # if prompt := st.chat_input("Whazz up?"):
-    #     with st.chat_message("assistant"):
-    #         st.write(bot.chat(prompt))
-
-
-
-
+    st.write("RO BÅT is a funny robot that can help you out with programming tasks. However he doesn't directly answer your question, usually he asks another question back.")
+    display_chat_messages()
+    handle_user_input()
 
 if __name__ == "__main__":
-    # print(read_data())
+    initialize_session_state()
     layout()
