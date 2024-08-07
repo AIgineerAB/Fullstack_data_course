@@ -5,20 +5,17 @@
 > [!IMPORTANT]
 > [LINK TO VIDEO &nbsp; :video_camera:](https://)
 
-
-
-
 ## Setup 
 
-```bash
-uv pip install google-generativeai
+We'll install streamlit 
+
+```bash 
+uv pip install streamlit
 ```
 
 
 ## Other videos :video_camera:
 
-- [Build a Streamlit Chatbot FAST 🤯 - Coding is fun (2023)](https://www.youtube.com/watch?v=sBhK-2K9bUc)
 
 ## Read more :eyeglasses:
 
-- [Build a basic LLM chat app - streamlit docs](https://docs.streamlit.io/develop/tutorials/llms/build-conversational-apps)
