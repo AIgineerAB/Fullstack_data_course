@@ -26,7 +26,7 @@ Throughout the course, there will be video lectures covering all parts
 |         | - LLM chatbot                           |         |          |
 |         | - refactor OOP                          |         |          |
 |         |                                         |         |          |
-| week 38 | **SQL, dashboard lab**                  |         |          |
+| week 38 | **SQL, dashboard lab**                  | 07      |          |
 |         | - DuckDB intro                          |         |          |
 |         | - SQL repetition                        |         |          |
 |         | - load csv data                         |         |          |
