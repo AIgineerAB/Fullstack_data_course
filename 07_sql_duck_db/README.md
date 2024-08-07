@@ -21,3 +21,11 @@ From duckdb docs
 
 - [Why duckdb](https://duckdb.org/why_duckdb)
 - [Documentation](https://duckdb.org/docs/index)
+- [Data importing](https://duckdb.org/docs/data/overview)
+- [CSV import](https://duckdb.org/docs/data/csv/overview)
+- [CSV autodetection](https://duckdb.org/docs/data/csv/auto_detection)
+
+Python client API
+- [Data ingestion](https://duckdb.org/docs/api/python/data_ingestion)
+- [Conversion between duckdb and python](https://duckdb.org/docs/api/python/conversion)
+- [Python DB API](https://duckdb.org/docs/api/python/dbapi)
