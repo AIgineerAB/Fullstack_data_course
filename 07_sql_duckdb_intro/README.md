@@ -48,6 +48,62 @@ INSERT INTO jokes (id, joke_text, rating) VALUES
 (4, 'Why don’t skeletons fight each other? They don’t have the guts.', 6);
 ```
 
+Also control that the table jokes have been populated by 
+
+```sql 
+SELECT * FROM jokes;
+```
+
+Now lets describe different database objects using
+
+```sql
+desc;
+```
+
+Here we can see that main is the default schema for DuckDB as we haven't specified any schemas when creating the table. 
+
+```sql
+-- both give same results here
+desc jokes;
+desc first_db.main.jokes;
+```
+
+
+That was funny, lets get some more jokes, but insert it by using an sql script. 
+
+```sql
+INSERT INTO jokes (id, joke_text, rating) VALUES
+(5, 'Why don’t some couples go to the gym? Because some relationships don’t work out.', 8),
+(6, 'I would avoid the sushi if I was you. It’s a little fishy.', 7),
+(7, 'Want to hear a joke about construction? I’m still working on it.', 6),
+(8, 'Why don’t programmers like nature? It has too many bugs.', 9),
+(9, 'How does a penguin build its house? Igloos it together.', 1),
+(10, 'A gothenburg person stands in queue for star wars. When someone cuts the line he says ge daj.', 2);
+```
+
+We'll use a meta command to read the sql script by
+
+```sql
+.read insert_values.sql
+```
+
+Lets remove all jokes that have less than 5 in ratings. 
+
+```sql 
+.read remove_bad_jokes.sql
+```
+
+## Meta commands
+Some common meta commands
+
+| Meta Command | Description                                 |
+|--------------|---------------------------------------------|
+| `.open`      | Opens a DuckDB database file.               |
+| `.read`      | Executes SQL commands from a specified file.|
+| `.schema`    | Shows the schema of tables in the database. |
+| `.tables`    | Lists all tables in the connected database. |
+| `.quit`      | Exits the DuckDB CLI.                       |
+| `.help`      | Lists all available meta commands.          |
 
 
 ## Other videos :video_camera:
@@ -58,9 +114,7 @@ From duckdb docs
 
 - [Why duckdb](https://duckdb.org/why_duckdb)
 - [Documentation](https://duckdb.org/docs/index)
-- [Data importing](https://duckdb.org/docs/data/overview)
-- [CSV import](https://duckdb.org/docs/data/csv/overview)
-- [CSV autodetection](https://duckdb.org/docs/data/csv/auto_detection)
+
 
 Python client API
 

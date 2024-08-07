@@ -1,0 +1,3 @@
+CREATE SCHEMA IF NOT EXISTS staging;
+CREATE SCHEMA IF NOT EXISTS refined_layer;
+
