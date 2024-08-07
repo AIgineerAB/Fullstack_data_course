@@ -46,7 +46,7 @@ Throughout the course, there will be video lectures covering all parts
 | week 41 | **buffer time**                         |         |          |
 |         |                                         |         |          |
 
-|
+
 
 ## Part 2
 
