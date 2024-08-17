@@ -1,9 +1,7 @@
 # Python summary 
 
-<!-- [![video](https://github.com/kokchun/assets/blob/025ae8622a25d5522d11b21108f52f1df9388ea2/data_warehouse/snowflake_free_trial.png?raw=true)](https://github.com/kokchun/assets/blob/025ae8622a25d5522d11b21108f52f1df9388ea2/data_warehouse/snowflake_free_trial.png?raw=true) -->
+[![python_summary](https://)](https://www.youtube.com/watch?v=szKVpybz2Gg)
 
-> [!IMPORTANT]
-> [LINK TO VIDEO &nbsp; :video_camera:](https://)
 
 In this folder, you'll find jupyter notebooks for summary of different Python concepts starting from fundamentals to object oriented programming. These concepts are useful and prepares you for your continued journey in Python into data processing.
 
