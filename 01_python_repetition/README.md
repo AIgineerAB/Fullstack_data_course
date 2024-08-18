@@ -1,6 +1,18 @@
 # Python summary 
 
-[![python_summary](https://)](https://www.youtube.com/watch?v=szKVpybz2Gg)
+Watch the video on Python summary part 1
+[![python_summary part 1](https://github.com/kokchun/assets/blob/main/python/python_summary_part1_video.png?raw=true)](https://www.youtube.com/watch?v=szKVpybz2Gg)
+
+Watch the video on Python summary part 2
+[![python_summary part 2](https://github.com/kokchun/assets/blob/main/python/python_summary_part2_video.png?raw=true)](https://youtu.be/twlOySku1PM)
+
+Watch the video on Python summary part 3
+[![python_summary part 3](https://github.com/kokchun/assets/blob/main/python/python_summary_part3_video.png?raw=true)](https://youtu.be/Y1_P4ZMGLGo)
+
+Watch the video on Python summary part 4
+[![python_summary part 4](https://github.com/kokchun/assets/blob/main/python/python_summary_part4_video.png?raw=true)](https://youtu.be/fh5rZY4AVOI)
+
+
 
 
 In this folder, you'll find jupyter notebooks for summary of different Python concepts starting from fundamentals to object oriented programming. These concepts are useful and prepares you for your continued journey in Python into data processing.
