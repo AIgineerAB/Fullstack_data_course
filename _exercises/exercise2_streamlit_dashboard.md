@@ -47,3 +47,17 @@ Here are some inspirations:
 - AnalystGPT - send in some data and it will give some KPIs, or even make graphs based on your data
 - JokeTeller - turns everything into a good joke 
 - Answer questions about your school or your programs 
+
+Make sure that your chatbot has memory.
+
+## 4 Chatbot assistants 
+
+Now create a few chatbot assistants with various expertise, for example 
+
+- a summarizer in simpler language
+- an expert in resume building 
+- an expert in resume summarizing
+- a culinary expert that based on what ingredients you put in can give suggestions on recipes
+- one data analyst which can take data and generate a plot
+
+Create a filtering option so that you can choose which expert you want to talk to.
