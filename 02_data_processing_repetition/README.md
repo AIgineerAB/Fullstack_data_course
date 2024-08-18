@@ -1,4 +1,4 @@
-# Python summary 
+# Data processing summary
 
 Watch the video on data processing with pandas :tv:
 [![pandas summary](https://github.com/kokchun/assets/blob/main/data_processing/data_processing_repetition_video.png?raw=true)](https://youtu.be/rt9HUsJSbbY)
