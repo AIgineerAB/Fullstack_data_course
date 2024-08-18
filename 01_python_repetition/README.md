@@ -1,16 +1,19 @@
 # Python summary 
 
-Watch the video on Python summary part 1
+Watch the video on Python summary part 1 - functional :tv:
 [![python_summary part 1](https://github.com/kokchun/assets/blob/main/python/python_summary_part1_video.png?raw=true)](https://www.youtube.com/watch?v=szKVpybz2Gg)
 
-Watch the video on Python summary part 2
+Watch the video on Python summary part 2 - functional :tv:
 [![python_summary part 2](https://github.com/kokchun/assets/blob/main/python/python_summary_part2_video.png?raw=true)](https://youtu.be/twlOySku1PM)
 
-Watch the video on Python summary part 3
+Watch the video on Python summary part 3 - functional :tv:
 [![python_summary part 3](https://github.com/kokchun/assets/blob/main/python/python_summary_part3_video.png?raw=true)](https://youtu.be/Y1_P4ZMGLGo)
 
-Watch the video on Python summary part 4
+Watch the video on Python summary part 4 - functional :tv:
 [![python_summary part 4](https://github.com/kokchun/assets/blob/main/python/python_summary_part4_video.png?raw=true)](https://youtu.be/fh5rZY4AVOI)
+
+Watch the video on Python summary part 5 - OOP :tv:
+[![python_summary part 5](https://github.com/kokchun/assets/blob/main/python/python_summary_part5_video.png?raw=true)](https://youtu.be/fNOUYJzxNTg)
 
 
 
