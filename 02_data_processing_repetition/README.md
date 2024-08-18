@@ -4,6 +4,7 @@ Watch the video on data processing with pandas :tv:
 [![pandas summary]()](https://youtu.be/rt9HUsJSbbY)
 
 Watch the video on data storytelling with matplotlib :tv:
+[![data storytelling]()](https://youtu.be/Ys1zPifbuyM)
 
 
 
