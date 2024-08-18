@@ -15,6 +15,9 @@ Watch the video on Python summary part 4 - functional :tv:
 Watch the video on Python summary part 5 - OOP :tv:
 [![python_summary part 5](https://github.com/kokchun/assets/blob/main/python/python_summary_part5_video.png?raw=true)](https://youtu.be/fNOUYJzxNTg)
 
+Watch the video on Python summary part 6 - OOP :tv:
+[![python_summary part 6](https://github.com/kokchun/assets/blob/main/python/python_summary_part6_video.png?raw=true)](https://youtu.be/4QyyCbLBAWk)
+
 
 
 
