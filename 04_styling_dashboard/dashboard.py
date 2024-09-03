@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 from pathlib import Path
 import plotly.express as px
+from constants import Color
 
 
 def read_data():
@@ -43,8 +44,18 @@ def layout():
         labels={"index": "year", region: "started educations"},
     )
 
-    fig.update_traces(line=dict(width=3, color="#EDBD7C"))
-    fig.update_layout(xaxis=dict(showgrid=False), yaxis=dict(showgrid=False))
+    fig.update_traces(
+        line=dict(
+            width=4,
+            color=Color.PRIMARY,
+        )
+    )
+    fig.update_layout(
+        xaxis=dict(showgrid=False),
+        yaxis=dict(showgrid=False),
+        paper_bgcolor=Color.BACKGROUND,
+        plot_bgcolor=Color.BACKGROUND,
+    )
     st.plotly_chart(fig)
 
     read_css()
