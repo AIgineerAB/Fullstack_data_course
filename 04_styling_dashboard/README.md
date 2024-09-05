@@ -1,6 +1,7 @@
 # Streamlit styling using CSS 
 
-[![video](streamlit styling using CSS)](https://youtu.be/rkLzMLhCBiI)
+Watch this video on styling using CSS
+[![streamlit styling using CSS](https://github.com/kokchun/assets/blob/main/oop_advanced/streamlit_css_video.png?raw=true)](https://youtu.be/rkLzMLhCBiI)
 
 
 
