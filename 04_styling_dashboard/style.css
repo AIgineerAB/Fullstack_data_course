@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
 :root {
   /* modular scale */
@@ -21,11 +21,11 @@
 }
 
 .stAppViewMain {
-    background-color: var(--backgroundColorSecondary);
+  background-color: var(--backgroundColorSecondary);
 }
 /* lobotomized owl selector to give even margins */
 body * + * {
-    margin-top: var(--s-2);
+  margin-top: var(--s-2);
 }
 
 h1,
@@ -36,28 +36,39 @@ p {
   font-family: "Poppins", sans-serif;
 }
 
-p { font-size: var(--s0);}
+p {
+  font-size: var(--s0);
+}
 
-h3 {font-size: var(--s1);}
-h2 {font-size: var(--s2);}
-h1 {font-size: var(--s3);}
+h3 {
+  font-size: var(--s1);
+}
+h2 {
+  font-size: var(--s2);
+}
+h1 {
+  font-size: var(--s3);
+}
 
 [data-testid|="column"] {
-    margin-top: 0;
-    margin-left: var(--s1);
+  margin-top: 0; /* counter lobotomized owl */
+  margin-left: var(--s1);
 }
 
 [data-testid|="stHeader"] {
-    display: none;
+  display: none;
 }
 
 .stAppViewBlockContainer {
-    background-color: var(--backgroundColor);
-    padding-top: var(--s1);
-    padding-left: var(--s3);
-    padding-right: var(--s3);
-    padding-bottom: var(--s3);
-    max-width: 110ch;
+  background-color: var(--backgroundColor);
+  padding-top: var(--s1);
+  padding-left: var(--s3);
+  padding-right: var(--s3);
+  padding-bottom: var(--s3);
+  max-width: 110ch;
 }
 
-.stAppViewContainer {margin-top: 0;}
+/* to counter lobotomized owl to remove top margin */
+.stAppViewContainer {
+  margin-top: 0;
+}
