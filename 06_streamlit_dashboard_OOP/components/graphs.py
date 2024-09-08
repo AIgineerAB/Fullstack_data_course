@@ -1,6 +1,5 @@
-from data import MedalsPerCountry, SwedishSummerMedals
+from components.data import SwedishSummerMedals
 import streamlit as st
-
 
 class SwedishSummerGraphs:
     def __init__(self) -> None:

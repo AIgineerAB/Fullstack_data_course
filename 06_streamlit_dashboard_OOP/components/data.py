@@ -1,15 +1,14 @@
-# %%
 import pandas as pd
-from constants import SUMMER_GAMES_PATH, WINTER_GAMES_PATH
+from components.constants import SUMMER_GAMES_PATH
 
 
 class SummerGames:
-    def __init__(self):
+    def __init__(self) -> None:
         self.df = pd.read_csv(SUMMER_GAMES_PATH, index_col=0)
 
 
 class MedalsSummer(SummerGames):
-    def __init__(self):
+    def __init__(self) -> None:
         super().__init__()
         self.df = self.df[self.df["Medal"].notna()]
 
@@ -38,7 +37,6 @@ class MedalsPerCountry:
             self.df_summer_medals.groupby(["NOC", "Medal"]).size().unstack(fill_value=0)
         )
 
-
 class SwedishSummerMedals:
     def __init__(self) -> None:
         self.df_swe = MedalsSummer().data.query("NOC == 'SWE'")
@@ -54,6 +52,7 @@ class SwedishSummerMedals:
         )
 
 
+
 class Countries:
     def __init__(self):
         self._df = SummerGames().df
@@ -66,10 +65,3 @@ class Countries:
     def country_dict(self):
         """dictionary of NOC: country"""
         # TODO: implement
-
-
-if __name__ == "__main__":
-    df = MedalsSummer().data
-    print(df)
-
-# %%

@@ -1,11 +1,13 @@
 import streamlit as st
-from graphs import SwedishSummerGraphs
+from components.data import MedalsSummer, Countries
 from components.metrics import Metrics, MedalsCountry
-from data import Countries
+from components.graphs import SwedishSummerGraphs
 
-swedish_graphs = SwedishSummerGraphs()
+medals_df = MedalsSummer()
 metrics = Metrics()
 countries = Countries()
+swedish_graphs = SwedishSummerGraphs()
+
 
 def layout():
     st.markdown("# Summer olympics dashboard")
@@ -18,18 +20,18 @@ def layout():
     )
 
     metrics.country_medals_top_5()
+    
+
+    st.markdown("## Medals filter country")
+    selected_country = st.selectbox("Select a country", options = countries.noc)
+    MedalsCountry(selected_country).display_medals()
+
 
     st.markdown("## Medals per sport in Sweden")
-
     swedish_graphs.bar_medals_sport()
 
     st.markdown("## Medals per athlete in Sweden (top 10)")
     swedish_graphs.bar_medals_athlete_top10()
-
-    st.markdown("## Medals filter country")
-    selected_country = st.selectbox("Select a country", options=countries.noc)
-    print(selected_country)
-    MedalsCountry(selected_country).display_medals()
 
 
 
