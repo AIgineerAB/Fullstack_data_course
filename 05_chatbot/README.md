@@ -3,8 +3,9 @@
 Watch this video on using Eden AI API for creating a chatbot. This first part covers the chatbot in jupyter notebook.
 [![Chatbot using Eden AI API]()](https://youtu.be/2vvHu06wM4g)
 
-This next part covers the chatbot implemented in streamlit as frontend. 
 
+This second part covers the chatbot implemented in streamlit as frontend. 
+[![Chatbot using Eden AI API and streamlit as frontend]()](https://youtu.be/nBFPUAAWP4A)
 
 ## Setup 
 
