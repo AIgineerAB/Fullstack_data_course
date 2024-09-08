@@ -7,12 +7,9 @@
 
 ## Setup 
 
-We'll install streamlit 
+Go into kaggle to find [this dataset on olympic games](https://www.kaggle.com/datasets/nitishsharma01/olympics-124-years-datasettill-2020?resource=download). We will in the lecture work with the summer games only, but you are encouraged to also implement frontend dashboard with both summer and winter games.  
 
-```bash 
-uv pip install streamlit
-```
-
+Also you are encouraged to do more extensive and in depth EDA on both datasets. The one done in the video is very simple one, just to get started. 
 
 ## Other videos :video_camera:
 
