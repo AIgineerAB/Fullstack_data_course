@@ -18,3 +18,4 @@ We'll be using [Eden AI](https://www.edenai.co/), so setup a free account there.
 ## Read more :eyeglasses:
 
 - [Build a basic LLM chat app - streamlit docs](https://docs.streamlit.io/develop/tutorials/llms/build-conversational-apps)
+- [Session state - streamlit docs](https://docs.streamlit.io/develop/api-reference/caching-and-state/st.session_state)
