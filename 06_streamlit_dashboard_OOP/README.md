@@ -1,9 +1,8 @@
 # Streamlit dashboard OOP 
 
-<!-- [![video](https://github.com/kokchun/assets/blob/025ae8622a25d5522d11b21108f52f1df9388ea2/data_warehouse/snowflake_free_trial.png?raw=true)](https://github.com/kokchun/assets/blob/025ae8622a25d5522d11b21108f52f1df9388ea2/data_warehouse/snowflake_free_trial.png?raw=true) -->
+Watch this video on EDA on olympic games data set as a preparation for creating a streamlit dashboard using OOP in the next video.
+[![EDA on olympic games data set ]()](https://youtu.be/qZ1Ib5H9tJY)
 
-> [!IMPORTANT]
-> [LINK TO VIDEO &nbsp; :video_camera:](https://)
 
 ## Setup 
 
