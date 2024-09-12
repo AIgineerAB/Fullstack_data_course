@@ -1,6 +1,9 @@
 import pandas as pd
 from components.constants import SUMMER_GAMES_PATH
 
+# when we run the dashboard through streamlit - all modules must be 
+# referenced relative to where dashboard.py is -> ex components.constants
+# and not just constants
 
 class SummerGames:
     def __init__(self) -> None:

@@ -3,6 +3,9 @@ from components.data import MedalsSummer, Countries
 from components.metrics import Metrics, MedalsCountry
 from components.graphs import SwedishSummerGraphs
 
+# this script is slim, its purpose is to collect classes from different components
+# and create objects from them so that we can use them in the layout
+
 medals_df = MedalsSummer()
 metrics = Metrics()
 countries = Countries()
