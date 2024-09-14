@@ -14,6 +14,9 @@ Then we'll need the python client for connecting to duckdb through Python
 uv pip install duckdb
 ```
 
+Now [download and install dbeaver](https://dbeaver.io/download/), which is an IDE for viewing databases.
+
+
 ## DuckDB cli
 
 We start with using the cli so type

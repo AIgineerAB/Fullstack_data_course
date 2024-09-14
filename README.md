@@ -28,18 +28,18 @@ Throughout the course, there will be video lectures covering all parts
 |         |                                         |         |          |
 | week 38 | **SQL, dashboard lab**                  | 07      |          |
 |         | - DuckDB intro                          |         |          |
+|         | - dbeaver                               |         |          |
 |         | - SQL repetition                        |         |          |
 |         | - load csv data                         |         |          |
 |         | - select, insert, update, delete        |         |          |
 |         | - aggregations                          |         |          |
 |         | - joins                                 |         |          |
-|         | - subquery                              |         |          |
 |         | - lab introduction                      |         |          |
 | week 39 | **dimensional modeling, dashboard lab** |         |          |
 |         | - connect python with duckdb            |         |          |
+|         | - ingesting csv data into duckdb        |         |          |
 |         | - data warehouse concept                |         |          |
-|         | - star schema                           |         |          |
-|         | - layers: staging, refined, serving     |         |          |
+|         | - schemas and tables                    |         |          |
 |         | - data marts                            |         |          |
 | week 40 | **dashboard lab**                       |         |          |
 |         | - presentation and submit code          |         |          |
