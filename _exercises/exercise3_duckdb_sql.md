@@ -23,6 +23,7 @@ For the following exercises, use dbeaver and duckdb to query the data
 
 &nbsp; f) Check the top 10 most popular openings 
 
+&nbsp; g) Which player has the highest ranking? 
 
 
 
