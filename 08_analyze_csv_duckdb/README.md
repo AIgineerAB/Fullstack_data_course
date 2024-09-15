@@ -1,8 +1,11 @@
 # Analyze a csv file using DuckDB
 
-<!-- [![video](https://github.com/kokchun/assets/blob/025ae8622a25d5522d11b21108f52f1df9388ea2/data_warehouse/snowflake_free_trial.png?raw=true)](https://github.com/kokchun/assets/blob/025ae8622a25d5522d11b21108f52f1df9388ea2/data_warehouse/snowflake_free_trial.png?raw=true) -->
+Watch this video on loading csv file into duckdb database
+[![loading csv file into duckdb database]()](https://youtu.be/BQhLyP6sqC8)
 
-> [!IMPORTANT] > [LINK TO VIDEO &nbsp; :video_camera:](https://)
+Watch this second part where we'll do SQL repetition with duckdb
+[![EDA on youtube data]()]()
+
 
 We'll be working with this [social media influencers 2022](https://www.kaggle.com/datasets/ramjasmaurya/top-1000-social-media-channels). Let's just take youtube as I am not so cool that I use the other social medias. 
 
