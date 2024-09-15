@@ -3,7 +3,7 @@
 In this exercise sheet, you will get repetition of core Python and apply into exercises which are related to data processing.
 
 > [!NOTE]
-> These exercises covers lecture 00.
+> These exercises covers lecture 01.
 
 ## 0. Hire IT employee data
 

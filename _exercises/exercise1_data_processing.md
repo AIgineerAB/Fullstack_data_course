@@ -3,7 +3,7 @@
 In this exercise sheet, you will get repetition of data processing using pandas and graphing.
 
 > [!NOTE]
-> These exercises covers lecture 00.
+> These exercises covers lecture 02.
 
 ## 0. Supahcoolsoft employee data
 

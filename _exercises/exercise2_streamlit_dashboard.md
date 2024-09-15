@@ -1,9 +1,9 @@
-# Exercise 1 - Streamlit dashboard
+# Exercise 2 - Streamlit dashboard
 
-In this exercise sheet, you will get repetition of data processing using pandas and graphing.
+In this exercise sheet, you will work with streamlit for creating frontend dashboard.
 
 > [!NOTE]
-> These exercises covers lecture 00.
+> These exercises covers lecture 03-06.
 
 ## 0. Supahcoolsoft employee executive dashboard
 
