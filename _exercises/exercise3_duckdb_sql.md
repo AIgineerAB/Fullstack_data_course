@@ -5,7 +5,25 @@ In this exercise sheet, you will work with duckdb both in dbeaver and connect it
 > [!NOTE]
 > These exercises covers lecture 07-09.
 
-## 0. Social media
+## 0. Chess games
 
-In lecture 08 we used duckdb CLI to read youtube data into the database and then used dbeaver to query the database. Now do similar but with athelets_winter_games.csv 
+In lecture 08 we used duckdb CLI to read youtube data into the database and then used dbeaver to query the database. Now do similar but with [chessgames from lichess](https://www.kaggle.com/datasets/datasnaek/chess). 
+
+&nbsp; a) Start with reading in this dataset into a duckdb database named chess.db 
+
+For the following exercises, use dbeaver and duckdb to query the data
+
+&nbsp; b) Find out the possible categories for winner column. 
+
+&nbsp; c) Find out the possible categories for victory_status column. 
+
+&nbsp; d) Check total number of games represented in the dataset.
+
+&nbsp; e) Get statistics on the number draws, the number of white wins and number of black wins.
+
+&nbsp; f) Check the top 10 most popular openings 
+
+
+
+
 
