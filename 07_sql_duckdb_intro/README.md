@@ -16,6 +16,22 @@ uv pip install duckdb
 
 Now [download and install dbeaver](https://dbeaver.io/download/), which is an IDE for viewing databases.
 
+## DBeaver
+
+First use the DuckDB CLI to create a new database file 
+
+```bash
+duckdb first_db.db
+```
+
+and then run a command so that it saves, lets say `desc` command to describe the database. Now there should be a database file called first_db.db saved in your file system. 
+
+Inside of dbeaver
+1. open new project, import from directory where your first_db.db file is 
+2. establish a connection to your first_db.db file
+3. create SQL script and start using SQL
+
+
 
 ## DuckDB cli
 
