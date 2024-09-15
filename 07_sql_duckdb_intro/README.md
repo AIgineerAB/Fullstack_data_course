@@ -1,9 +1,7 @@
 # SQL with DuckDB
 
 Watch this video on how to setup duckdb and dbeaver. 
-[![video](setup duckdb and dbeaver and testing)](https://youtu.be/b9VMLSXKHwk)
-
-
+[![setup duckdb and dbeaver and testing](https://github.com/kokchun/assets/blob/main/oop_advanced/dbeaver_setup.png?raw=true)](https://youtu.be/b9VMLSXKHwk)
 
 
 ## Setup

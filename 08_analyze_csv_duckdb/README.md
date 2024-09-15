@@ -1,7 +1,7 @@
 # Analyze a csv file using DuckDB
 
 Watch this video on loading csv file into duckdb database
-[![loading csv file into duckdb database]()](https://youtu.be/BQhLyP6sqC8)
+[![loading csv file into duckdb database](https://github.com/kokchun/assets/blob/main/oop_advanced/load_csv_duckdb.png?raw=true)](https://youtu.be/BQhLyP6sqC8)
 
 Watch this second part where we'll do SQL repetition with duckdb
 [![EDA on youtube data]()]()
