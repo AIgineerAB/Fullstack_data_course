@@ -26,7 +26,7 @@ Throughout the course, there will be video lectures covering all parts
 |         | - LLM chatbot                     |         |          |
 |         | - refactor OOP                    |         |          |
 |         |                                   |         |          |
-| week 38 | **SQL, dashboard lab**            | 07-08   |          |
+| week 38 | **SQL, dashboard lab**            | 07-08   | 3, lab 1 |
 |         | - DuckDB intro                    |         |          |
 |         | - dbeaver                         |         |          |
 |         | - SQL repetition                  |         |          |
@@ -36,11 +36,11 @@ Throughout the course, there will be video lectures covering all parts
 |         | - joins                           |         |          |
 |         | - schemas and tables              |         |          |
 |         | - lab introduction                |         |          |
-| week 39 | **dashboard lab**                 | 09      |          |
+| week 39 | **dashboard lab**                 | 09      | lab 1    |
 |         | - connect python with duckdb      |         |          |
 |         | - ingesting csv data into duckdb  |         |          |
 |         | - data marts to serve dashboard   |         |          |
-| week 40 | **dashboard lab**                 |         |          |
+| week 40 | **dashboard lab**                 |         | lab 1    |
 |         | - submit code                     |         |          |
 | week 41 | **buffer time**                   |         |          |
 |         |                                   |         |          |
