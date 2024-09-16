@@ -2,11 +2,13 @@
 
 
 Using python to connect to duckdb part 1
-[![python connect duckdb]()](https://youtu.be/lwK1J3W04Bw)
+[![python connect duckdb part 1](https://github.com/kokchun/assets/blob/main/oop_advanced/connect_python_duckdb_part1.png?raw=true)](https://youtu.be/lwK1J3W04Bw)
 
 Using python to connect to duckdb part 2
-[![python connect duckdb]()](https://youtu.be/cJZrhxz4IP4)
+[![python connect duckdb part 2](https://github.com/kokchun/assets/blob/main/oop_advanced/connect_python_duckdb_part2.png?raw=true)](https://youtu.be/cJZrhxz4IP4)
 
+Using python to connect to duckdb part 3
+[![python connect duckdb part 3](https://github.com/kokchun/assets/blob/main/oop_advanced/connect_python_duckdb_part3.png?raw=true)](https://youtu.be/JFNTmYiI7PE)
 
 
 
