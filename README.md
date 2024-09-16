@@ -64,8 +64,3 @@ Throughout the course, there will be video lectures covering all parts
 | week 6 | **project**                             |         |
 |        | - presentation and submit project       |         |
 | week 7 | **buffer time**                         |         |
-
-NOTE
-
-- job ad project
-- dlt to load data
