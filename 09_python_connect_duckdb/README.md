@@ -1,6 +1,9 @@
 # Python connect duckdb
 
-<!-- [![video](https://github.com/kokchun/assets/blob/025ae8622a25d5522d11b21108f52f1df9388ea2/data_warehouse/snowflake_free_trial.png?raw=true)](https://github.com/kokchun/assets/blob/025ae8622a25d5522d11b21108f52f1df9388ea2/data_warehouse/snowflake_free_trial.png?raw=true) -->
+
+Using python to connect to duckdb part 1
+[![python connect duckdb]()](https://youtu.be/lwK1J3W04Bw)
+
 
 Start with installing duckdb in your virtual environment
 
