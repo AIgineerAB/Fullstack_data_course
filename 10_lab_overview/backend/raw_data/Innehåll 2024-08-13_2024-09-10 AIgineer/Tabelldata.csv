@@ -1,0 +1,59 @@
+Innehåll,Videotitel,Publiceringstid för video,Visningar,Visningstid (timmar),Prenumeranter,Exponeringar,Klickfrekvens för exponeringar (%)
+Totalt,,,2052,180.6438,24,17619,2.17
+i454nHjdMAc,Setup snowflake and snowsql,"Aug 17, 2024",101,7.5072,2,497,1.41
+IUMdhf_vsMs,Setup dbt (coding),"Aug 26, 2024",90,11.1886,0,757,1.45
+u4map_3j9LA,Setup dlt part 1 (coding),"Aug 18, 2024",78,4.4022,1,452,1.99
+KOn6XRDrT8s,Setup dlt part 3 - loading csv file into snowflake (coding),"Aug 18, 2024",74,8.0293,0,1274,1.33
+TrLrobmqzKQ,Roles and privileges in snowflake (coding),"Aug 17, 2024",70,8.873,1,867,2.31
+PEmcikWd93o,Extract load API part 3 - dlt to load from jobtech (coding),"Aug 24, 2024",69,8.5307,0,251,5.58
+x9AyMOVAtV4,Data warehouse intro,"Aug 17, 2024",68,4.3152,1,204,2.45
+KkmrVSbMap8,Snowflake introduction (theory),"Aug 17, 2024",62,4.9989,1,454,3.3
+NdM4iYw37B8,Setup dlt part 2 - setup users and roles (coding),"Aug 18, 2024",60,5.0306,0,219,5.02
+V2CEc9tCHxM,Setup roles and user in snowflake for dbt modeling job ads (coding),"Aug 26, 2024",60,6.1722,0,179,2.79
+EfN1PrpUPyM,"Extract load API part 2 - roles, user and database setup (coding)","Aug 24, 2024",59,2.3873,0,279,2.51
+k260IXXxyDE,Snowsight navigation,"Aug 17, 2024",57,2.6339,1,95,4.21
+HB6Y8eMQ8w0,Extract load api part 1 - exploring jobtech API for job ads (coding),"Aug 24, 2024",56,3.6444,0,768,1.04
+dzI71WhlOpU,Data warehouse lifecycle course structure part 1,"Aug 18, 2024",56,2.2075,1,381,2.62
+aiYLvu6h0dM,dbt transformations of job ads part 1 (coding),"Aug 26, 2024",55,8.6877,0,257,3.11
+eohHTUU0RII,dlt to extract and load from api to snowflake (theory),"Aug 17, 2024",54,0.8827,0,457,3.06
+m4zrj5ZUWs4,Data load tool to extract and load data (theory),"Aug 17, 2024",53,1.7319,0,543,2.21
+f_BBLXUytaU,Streamlit intro for frontend,"Aug 31, 2024",51,6.8475,1,356,2.25
+E88-G-uDxnQ,Dimensional modeling on job ads data (coding),"Aug 24, 2024",50,6.5152,0,339,2.65
+mMJKWOg3nS4,What is dbt (theory),"Aug 26, 2024",48,1.9894,1,746,1.61
+BcDfBkY6hXc,SQL repetition in snowflake using snowflake marketplace (coding),"Aug 17, 2024",45,8.4584,1,947,1.06
+NZlaNhDUqOE,Snowflake role hierarchy (theory),"Aug 17, 2024",45,2.4734,0,431,2.55
+C7ysqi_tZio,Dimensional modeling with star schema (theory),"Aug 17, 2024",44,4.4831,0,243,2.06
+szKVpybz2Gg,python summary part1 (coding),"Aug 10, 2024",44,7.174,1,537,1.86
+3K85fZ0Ak9o,Streamlit dashboard job ads (coding),"Sep 2, 2024",41,6.5883,0,144,4.86
+XmNUuzY9OHQ,Data marts to serve the data from a data warehouse (theory),"Aug 17, 2024",39,1.1008,0,335,1.79
+xJFyZCtdXaQ,Dimensional modeling in dbdiagram hospital example (coding),"Aug 24, 2024",38,3.4096,0,167,2.4
+GRGPnSTCTFI,dbt testing job ads data (coding),"Aug 30, 2024",37,3.0718,0,408,0.98
+D_JY1dkljSs,Data warehouse lifecycle course structure part 2 - github structure,"Aug 18, 2024",36,1.6284,0,477,1.47
+fh5rZY4AVOI,python summary part4 (coding),"Aug 17, 2024",34,2.5072,3,576,3.65
+fhwdKmp_7S8,Virtual warehouse in snowflake (coding),"Aug 17, 2024",32,1.9694,0,153,1.96
+gfzlxJHfFtA,dlt to extract and load data from OLTP to a data warehouse (theory),"Aug 17, 2024",32,0.9158,1,375,1.87
+HMvYN3Vdvao,dbt transformations of job ads part 2 (coding),"Aug 29, 2024",31,5.265,0,201,2.49
+PnSL_CPWKxI,Developing in dbt (theory),"Aug 17, 2024",31,1.4498,0,505,0.79
+rt9HUsJSbbY,Data processing repetition,"Aug 18, 2024",31,2.0907,0,246,3.25
+rkLzMLhCBiI,Styling streamlit with CSS,"Sep 5, 2024",28,1.7628,0,238,2.94
+Ys1zPifbuyM,Data storytelling for explanatory data analysis using matplotlib,"Aug 18, 2024",23,2.9307,1,393,1.27
+fNOUYJzxNTg,python summary part 5,"Aug 18, 2024",22,2.5967,0,340,2.65
+Y1_P4ZMGLGo,python summary part3 (coding),"Aug 17, 2024",21,3.1632,0,160,4.38
+twlOySku1PM,python summary part2 (coding),"Aug 17, 2024",19,2.8906,0,169,2.96
+0tws8vOwKKQ,dbt documentation of job ads (coding),"Sep 2, 2024",18,2.1488,0,174,0.57
+4QyyCbLBAWk,python summary part6,"Aug 18, 2024",18,1.2916,0,270,2.59
+wVneS4Akh9I,Faktorer och nollställen Matte 3C,"Sep 16, 2019",18,0.8087,0,83,12.05
+z0G3KoDryww,dbt transformations of job ads part 3 (coding),"Aug 29, 2024",17,1.0603,0,203,0.99
+2vvHu06wM4g,Chatbot using eden AI API part 1,"Sep 8, 2024",10,1.7507,0,41,4.88
+nBFPUAAWP4A,Chatbot using eden AI API and streamlit frontend part 2,"Sep 8, 2024",9,0.9,0,54,3.7
+IqV75ndo-b4,Kvadreringsregler och konjugatregler härledningar,"Jun 9, 2019",6,0.1118,0,10,40
+qZ1Ib5H9tJY,OOP streamlit dashboard - part 1 - EDA on the dataset (coding),"Sep 8, 2024",5,0.0312,0,38,2.63
+hocYlT4ixsU,Streamlit dashboard olympic games data OOP approach (coding),"Sep 8, 2024",4,0.0088,0,34,2.94
+sUOoGio7qd8,Stocks API data processing,"Mar 19, 2024",2,0.0168,0,45,2.22
+GOSbxHuOs8M,Tillämpningar andragradsekvationer,"Feb 14, 2020",1,0.0102,0,36,0
+2xqlDLCK6CQ,PQ formeln,"Feb 14, 2020",,,,34,0
+7Dqqbo06j5Q,Andragradsfunktionens graf,"Feb 14, 2020",,,,36,0
+WCMH4e-LoRA,Gränsvärden matte 3C,"Sep 22, 2019",,,,38,0
+jz0kthMmsCg,Derivera exponentialfunktion Ma3C,"Nov 8, 2019",,,,33,0
+lfxUmiaNgXM,Enkla andragradsekvationer Ma2,"Feb 14, 2020",,,,33,0
+rFlmpvuORB4,Andragradsfunktion   algebra,"Feb 14, 2020",,,,37,0
