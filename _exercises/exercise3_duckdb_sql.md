@@ -25,6 +25,15 @@ For the following exercises, use dbeaver and duckdb to query the data
 
 &nbsp; g) Which player has the highest ranking? 
 
+## 1. How do Göteborg stad spend our tax money?
+
+&nbsp; a) Connect Python to duckdb and save the data of two or more leverantörsfakturor (csv) in Göteborg stad into a duckdb database. 
+
+&nbsp; b) Do an EDA of your choice using SQL.
+
+&nbsp; c) Now try to join two or more files. 
+
+&nbsp; d) See if you can connect to streamlit and make a simple dashboard.
 
 
 
