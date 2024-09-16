@@ -4,6 +4,11 @@
 Using python to connect to duckdb part 1
 [![python connect duckdb]()](https://youtu.be/lwK1J3W04Bw)
 
+Using python to connect to duckdb part 2
+[![python connect duckdb]()](https://youtu.be/cJZrhxz4IP4)
+
+
+
 
 Start with installing duckdb in your virtual environment
 

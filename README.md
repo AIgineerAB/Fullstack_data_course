@@ -6,45 +6,44 @@ Throughout the course, there will be video lectures covering all parts
 
 ## Part 1
 
-| Week    | Content                                 | Lecture | Exercise |
-| ------- | --------------------------------------- | ------- | -------- |
-| week 34 | **repetition of python**                | 00-01   | 0        |
-|         | - functional                            |         |          |
-|         | - OOP                                   |         |          |
-|         | - mob programming                       |         |          |
-| week 35 | **repetition of data processing**       | 02      | 1        |
-|         | - pandas fundamentals                   |         |          |
-|         | - matplotlib visualisations             |         |          |
-|         | - plotly visualisations                 |         |          |
-| week 36 | **frontend**                            | 03-04   | 2        |
-|         | - basic dashboard in streamlit          |         |          |
-|         | - widgets and inputs                    |         |          |
-|         | - displaying data                       |         |          |
-|         | - graphs                                |         |          |
-|         | - basic styling                         |         |          |
-| week 37 | **streamlit continue**                  | 05-06   | 2        |
-|         | - LLM chatbot                           |         |          |
-|         | - refactor OOP                          |         |          |
-|         |                                         |         |          |
-| week 38 | **SQL, dashboard lab**                  | 07      |          |
-|         | - DuckDB intro                          |         |          |
-|         | - dbeaver                               |         |          |
-|         | - SQL repetition                        |         |          |
-|         | - load csv data                         |         |          |
-|         | - select, insert, update, delete        |         |          |
-|         | - aggregations                          |         |          |
-|         | - joins                                 |         |          |
-|         | - lab introduction                      |         |          |
-| week 39 | **dimensional modeling, dashboard lab** |         |          |
-|         | - connect python with duckdb            |         |          |
-|         | - ingesting csv data into duckdb        |         |          |
-|         | - data warehouse concept                |         |          |
-|         | - schemas and tables                    |         |          |
-|         | - data marts                            |         |          |
-| week 40 | **dashboard lab**                       |         |          |
-|         | - presentation and submit code          |         |          |
-| week 41 | **buffer time**                         |         |          |
-|         |                                         |         |          |
+| Week    | Content                           | Lecture | Exercise |
+| ------- | --------------------------------- | ------- | -------- |
+| week 34 | **repetition of python**          | 00-01   | 0        |
+|         | - functional                      |         |          |
+|         | - OOP                             |         |          |
+|         | - mob programming                 |         |          |
+| week 35 | **repetition of data processing** | 02      | 1        |
+|         | - pandas fundamentals             |         |          |
+|         | - matplotlib visualisations       |         |          |
+|         | - plotly visualisations           |         |          |
+| week 36 | **frontend**                      | 03-04   | 2        |
+|         | - basic dashboard in streamlit    |         |          |
+|         | - widgets and inputs              |         |          |
+|         | - displaying data                 |         |          |
+|         | - graphs                          |         |          |
+|         | - basic styling                   |         |          |
+| week 37 | **streamlit continue**            | 05-06   | 2        |
+|         | - LLM chatbot                     |         |          |
+|         | - refactor OOP                    |         |          |
+|         |                                   |         |          |
+| week 38 | **SQL, dashboard lab**            | 07-08   |          |
+|         | - DuckDB intro                    |         |          |
+|         | - dbeaver                         |         |          |
+|         | - SQL repetition                  |         |          |
+|         | - load csv data                   |         |          |
+|         | - select, insert, update, delete  |         |          |
+|         | - aggregations                    |         |          |
+|         | - joins                           |         |          |
+|         | - schemas and tables              |         |          |
+|         | - lab introduction                |         |          |
+| week 39 | **dashboard lab**                 | 09      |          |
+|         | - connect python with duckdb      |         |          |
+|         | - ingesting csv data into duckdb  |         |          |
+|         | - data marts to serve dashboard   |         |          |
+| week 40 | **dashboard lab**                 |         |          |
+|         | - submit code                     |         |          |
+| week 41 | **buffer time**                   |         |          |
+|         |                                   |         |          |
 
 ## Part 2
 
