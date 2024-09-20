@@ -10,6 +10,7 @@ Lab overview part 3
 [![lab overview part 3]()](https://youtu.be/ie87SBfco9A)
 
 Lab overview part 4
+[![lab overview part 4]()](https://youtu.be/eS8Ffveg6kE)
 
 
 In this lecture, we'll go over the overview of the data driven youtuber lab. 
