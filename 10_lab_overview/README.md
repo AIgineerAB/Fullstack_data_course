@@ -12,6 +12,9 @@ Lab overview part 3
 Lab overview part 4
 [![lab overview part 4](https://github.com/kokchun/assets/blob/main/oop_advanced/lab_part4.png?raw=true)](https://youtu.be/eS8Ffveg6kE)
 
+Lab overview part 5
+[![lab overview part 5](https://github.com/kokchun/assets/blob/main/oop_advanced/lab_part5.png?raw=true)](https://youtu.be/EWd2x3d_7hg)
+
 
 In this lecture, we'll go over the overview of the data driven youtuber lab. 
 
