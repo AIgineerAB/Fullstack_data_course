@@ -1,10 +1,8 @@
 # Github actions for CI
 
-TOOD: video
-
-<!-- <a href="https://youtu.be/3_ZZ80Symjc" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/python_videos/packaging.png?raw=true" alt="course structure" width="600">
-</a> -->
+<a href="https://youtu.be/J_YfAxcO1EE" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/ci_cd/ci_video.png?raw=true" alt="github actions" width="600">
+</a>
 
 In this continous integration (CI) with github actions, we'll configure a few tools to run for automatically linting our code. The purpose for this is to make sure that the whole team has the same formatting so that you don't code review code changes that are only formatting and instead code review on actual changes. 
 
