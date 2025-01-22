@@ -100,6 +100,12 @@ repos:
         args: ["--profile", "black"]  
 ```
 
+Now you need to install your hooks to .git so run the following command 
+
+```bash
+pre-commit install
+```
+
 This will check black, flake8 and sort your packages automatically before committing the code. 
 
 
